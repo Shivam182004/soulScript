@@ -19,7 +19,7 @@ const Header =async() => {
         <nav className='py-6 px-4 flex justify-between items-center'>
             <Link href={'/'}>
            
-            <Image src={'/logos.png'} alt='SoulScript logo' width={200} height={60}
+            <Image src={'/logo.png'} alt='SoulScript logo' width={200} height={60}
             className='h-10 w-auto object-contain'
             />
         
