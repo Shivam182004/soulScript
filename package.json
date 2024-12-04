@@ -9,14 +9,44 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@arcjet/next": "^1.0.0-alpha.32",
+    "@clerk/nextjs": "^6.5.1",
+    "@hookform/resolvers": "^3.9.1",
+    "@prisma/client": "^6.0.0",
+    "@radix-ui/react-accordion": "^1.2.1",
+    "@radix-ui/react-alert-dialog": "^1.1.2",
+    "@radix-ui/react-dialog": "^1.1.2",
+    "@radix-ui/react-popover": "^1.1.2",
+    "@radix-ui/react-select": "^2.1.2",
+    "@radix-ui/react-slot": "^1.1.0",
+    "add": "^2.0.6",
+    "class-variance-authority": "^0.7.1",
+    "clsx": "^2.1.1",
+    "date-fns": "^4.1.0",
+    "embla-carousel-autoplay": "^8.5.1",
+    "embla-carousel-react": "^8.5.1",
+    "lucide-react": "^0.462.0",
+    "next": "15.0.3",
+    "next-themes": "^0.4.3",
     "react": "19.0.0-rc-66855b96-20241106",
+    "react-day-picker": "^8.10.1",
     "react-dom": "19.0.0-rc-66855b96-20241106",
-    "next": "15.0.3"
+    "react-hook-form": "^7.53.2",
+    "react-quill-new": "^3.3.3",
+    "react-spinners": "^0.14.1",
+    "recharts": "^2.13.3",
+    "select": "^1.1.2",
+    "shadcn": "^2.1.6",
+    "sonner": "^1.7.0",
+    "tailwind-merge": "^2.5.5",
+    "tailwindcss-animate": "^1.0.7",
+    "zod": "^3.23.8"
   },
   "devDependencies": {
-    "postcss": "^8",
-    "tailwindcss": "^3.4.1",
     "eslint": "^8",
-    "eslint-config-next": "15.0.3"
+    "eslint-config-next": "15.0.3",
+    "postcss": "^8",
+    "prisma": "^6.0.0",
+    "tailwindcss": "^3.4.1"
   }
 }
