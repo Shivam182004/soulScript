@@ -33,3 +33,13 @@ SoulScript is an intuitive journal app designed to help you track your thoughts,
 npm install --legacy-peer-deps
 # or
 yarn install --ignore-peer-deps
+3. Set up environment variables
+4. Run the development server
+```
+```bash
+npm run dev
+# or
+yarn dev
+```
+##🤝 Contributing
+Contributions are welcome!
