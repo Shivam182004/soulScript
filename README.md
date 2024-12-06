@@ -1,5 +1,7 @@
 # SoulScript 📓✨
 
+![Screenshot (33)](https://github.com/user-attachments/assets/0fd3654a-6f99-4c6f-9240-4dc8c6fe08c1)
+
 ## Overview
 SoulScript is an intuitive journal app designed to help you track your thoughts, moods, and creative drafts with ease and elegance.
 
