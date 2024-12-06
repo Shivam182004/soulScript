@@ -3,6 +3,7 @@ import React from 'react'
 import { Card, CardContent } from './ui/card'
 import { Button } from './ui/button'
 import { ChevronRight } from 'lucide-react'
+import Link from 'next/link'
 
 const CallToAction = () => {
   return (
@@ -17,7 +18,7 @@ const CallToAction = () => {
               digital journaling.
             </p>
             <Button size="lg" variant="journal" className="animate-bounce">
-              Get Started for Free <ChevronRight className="ml-2 h-4 w-4" />
+              <Link href={'/journal/write'}>Get Started for Free</Link> <ChevronRight className="ml-2 h-4 w-4" />
             </Button>
           </CardContent>
         </Card>
