@@ -20,7 +20,7 @@ SoulScript is an intuitive journal app designed to help you track your thoughts,
 - **Deployment**: Vercel
 
 ## 🔗 Live Demo
-[SoulScript App](https://soul-script-xi.vercel.app/)
+[SoulScript App](https://www.soulscript.me/)
 
 ## 📦 Installation
 
