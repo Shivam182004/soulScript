@@ -18,7 +18,7 @@ const CallToAction = () => {
               digital journaling.
             </p>
             <Button size="lg" variant="journal" className="animate-bounce">
-              <Link href={'/journal/write'}>Get Started for Free</Link> <ChevronRight className="ml-2 h-4 w-4" />
+              <Link href={'/'}>Get Started for Free</Link> <ChevronRight className="ml-2 h-4 w-4" />
             </Button>
           </CardContent>
         </Card>
